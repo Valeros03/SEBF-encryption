@@ -1,0 +1,10 @@
+﻿  MessCrypt.cpp
+C:\Users\sebyf\OneDrive\Documenti\Visual Studio 2022\MESSCRYPT\MESSCRYPT\MessCrypt.cpp(37,90): warning C4267: 'argomento': conversione da 'size_t' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\sebyf\OneDrive\Documenti\Visual Studio 2022\MESSCRYPT\MESSCRYPT\MessCrypt.cpp(39,26): warning C4267: 'argomento': conversione da 'size_t' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\sebyf\OneDrive\Documenti\Visual Studio 2022\MESSCRYPT\MESSCRYPT\MessCrypt.cpp(104,90): warning C4267: 'argomento': conversione da 'size_t' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\sebyf\OneDrive\Documenti\Visual Studio 2022\MESSCRYPT\MESSCRYPT\MessCrypt.cpp(109,26): warning C4267: 'argomento': conversione da 'size_t' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\sebyf\OneDrive\Documenti\Visual Studio 2022\MESSCRYPT\MESSCRYPT\MessCrypt.cpp(169,26): warning C4267: 'argomento': conversione da 'size_t' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\sebyf\OneDrive\Documenti\Visual Studio 2022\MESSCRYPT\MESSCRYPT\MessCrypt.cpp(190,92): warning C4267: 'argomento': conversione da 'size_t' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\sebyf\OneDrive\Documenti\Visual Studio 2022\MESSCRYPT\MESSCRYPT\MessCrypt.cpp(242,26): warning C4267: 'argomento': conversione da 'size_t' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\sebyf\OneDrive\Documenti\Visual Studio 2022\MESSCRYPT\MESSCRYPT\MessCrypt.cpp(269,92): warning C4267: 'argomento': conversione da 'size_t' a 'unsigned int'. Possibile perdita di dati.
+  MESSCRYPT.vcxproj -> C:\Users\sebyf\OneDrive\Documenti\Visual Studio 2022\MESSCRYPT\x64\Debug\MESSCRYPT.exe
